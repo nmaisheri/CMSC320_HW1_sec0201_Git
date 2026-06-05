@@ -15,3 +15,8 @@ Answer: Merge combines branches and preserves the exact chronological history
 by creating a new "merge commit". Rebase rewrites history by miving your
 branch to the tip of the main branch, and replays your commits like they were
 made just recently
+
+Q4: What are you looking forward to this semester?
+
+Answer: This semester, I look forward to learning more about data science
+and what it has to offer.
