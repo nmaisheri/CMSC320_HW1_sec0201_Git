@@ -1,0 +1,4 @@
+]Q2: What field could data science be applied to? Give an Example.
+
+Answer: Some fiels data science can be applied to is Healthcare, Retail,
+and Government.
